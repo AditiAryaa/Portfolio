@@ -39,7 +39,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "public/Aditi-Arya-FlowCV-Resume-20240119.pdf",
+      href: "/Aditi-Arya-FlowCV-Resume-20240119 (1).pdf",
       style: "rounded-br-md",
       dowload: true,
     },

@@ -37,7 +37,7 @@ const Home = () => {
           <img
             src={Heroimage}
             alt="my profile"
-            className="rounded-2xl h-4/5  md:w-full relative mr-24"
+            className="rounded-2xl h-4/5  md:w-full  mr-32"
           />
         </div>
       </div>
